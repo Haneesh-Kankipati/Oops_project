@@ -14,10 +14,10 @@ Technologies Used
 
 Screenshorts  
 ![image](https://github.com/user-attachments/assets/41c18fa5-a2a4-4a48-b133-7b067a7ad674)  
-The rooms are color coded.  
-You can rotate, resize and delete rooms.  
-You can add doors, windows and furniture using the right click popup menu of the room.  
-After selecting, add door or add window option, select a point and drag it to another point to generate a door or window.  
-Main door functions have been given to living room only.  
-Cannot add windows between rooms.  
-Saved files will be stored as text files.  
+-The rooms are color coded.  
+-You can rotate, resize and delete rooms.  
+-You can add doors, windows and furniture using the right click popup menu of the room.  
+-After selecting, add door or add window option, select a point and drag it to another point to generate a door or window.  
+-Main door functions have been given to living room only.  
+-Cannot add windows between rooms.  
+-Saved files will be stored as text files.  
