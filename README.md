@@ -12,7 +12,7 @@ Technologies Used
 -Java 8+: Core language for logic and application development.  
 -File Handling: For saving and loading project data.  
 
-Screenshorts  
+Screenshots  
 ![image](https://github.com/user-attachments/assets/17364884-3009-4f8b-8444-1b48d7529cdd)
 -The rooms are color coded.  
 -You can rotate, resize and delete rooms.  
